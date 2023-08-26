@@ -12,5 +12,9 @@ python app.py
 
 To access your flask application open new tab in and paste the url:
 ```
-https://{your_url}.pwskills.app:5000/
+https://localhost:5000/
 ```
+
+To enter the data in the flask application open new tab in and paste the url:
+```
+https://localhost:5000/predictdata
